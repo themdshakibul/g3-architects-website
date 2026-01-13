@@ -54,6 +54,13 @@
   cursor: pointer;
 }
 
+.btn-primary:hover {
+  background-color: transparent;
+  border: 2px solid rgba(255, 144, 14, 1);
+  color: black;
+  transition: 0.3s;
+}
+
 main {
   max-width: 1440px;
   margin: 0 auto;
@@ -88,6 +95,7 @@ main > section {
 
 .nav-link {
   text-decoration: none;
+  font-size: 1.3rem;
   font-weight: 500;
 }
 
