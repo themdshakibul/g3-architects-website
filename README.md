@@ -15,6 +15,15 @@ The goal was to build a **pixel-perfect and fully responsive** layout following 
   - iPad Air
   - iPad Pro
 
+
+## 🚀 Technologies Used
+
+- HTML5
+- CSS3
+- Responsive Design (Media Queries)
+
+---
+
 ## 🔗 Live Preview
 
 👉 https://themdshakibul.github.io/g3-architects-website/
@@ -25,13 +34,5 @@ The goal was to build a **pixel-perfect and fully responsive** layout following 
   src="./images/themdshakibul-github-io-g3-architects-website.png"
   alt="Website Previdew"
 />
-
-## 🚀 Technologies Used
-
-- HTML5
-- CSS3
-- Responsive Design (Media Queries)
-
----
 
 ✅ **Status:** Completed Successfully
